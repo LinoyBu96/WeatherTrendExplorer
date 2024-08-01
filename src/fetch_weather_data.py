@@ -1,6 +1,4 @@
 from utils import handle_IMS_API_request, load_env
-from pandas import json_normalize 
-import pandas as pd
 
 load_env()
 
